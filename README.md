@@ -3,7 +3,7 @@
 **I'm Haileleul**</br>
 Born and raised in Addis Ababa, Ethiopia🇪🇹</br>
 Doing my master's degree at Institute Polytechnique de Paris🇫🇷</br>
-Specializing on Artificial Intelligence and Data Science</br>
+Specializing in Artificial Intelligence and Data Science</br>
 
 
 - 🔭 I’m currently working on Analyzing the socio-political effect of social-media
